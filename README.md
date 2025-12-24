@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="./assets/capa.png" width="800"/>
-</p>
+<img src="./assets/capa.png" width="800"/>
 
-# 🍽️ API Restaurante
+🍽️ API Restaurante
 
-API REST desenvolvida em Node.js para gerenciamento de produtos, pedidos e usuários.
+API REST desenvolvida com Node.js e TypeScript, utilizando arquitetura organizada em camadas, migrations com Knex e validação de dados. Projeto focado em boas práticas, escalabilidade e clareza de código.
