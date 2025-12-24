@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/capa-api-restaurant.png" alt="API Restaurante" />
+  <img src="./src/assets/capa.png" alt="API Restaurante" />
 </p>
 
 # 🍽️ API Restaurante
