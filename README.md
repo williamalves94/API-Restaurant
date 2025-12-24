@@ -21,10 +21,13 @@ API REST para gerenciamento de produtos de restaurante, desenvolvida com foco em
 
 ## ⚙️ Funcionalidades
 
-- CRUD de produtos
-- Migrations com Knex
-- Validação de dados
-- Arquitetura em camadas (routes, controllers, middlewares)
+- CRUD completo de produtos
+- Persistência em banco de dados
+- Migrations e versionamento de schema com Knex
+- Validação de dados nas requisições
+- Tratamento de erros
+- Arquitetura em camadas (routes, controllers e middlewares)
+
 
 ---
 
