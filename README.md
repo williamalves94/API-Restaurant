@@ -1,3 +1,3 @@
-<p align="center">
+<p>
   <img src="./assets/api-restaurant.png" alt="Capa do projeto" width="500"/>
 </p>
